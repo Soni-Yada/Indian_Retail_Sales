@@ -38,7 +38,7 @@ Data Cleaning (Power Query)
 
 Dashboard Development (Power BI)
 
- - -Designed KPI cards using DAX functions to calculate and display Total Sales and Total Profit for quick evaluation.
+ - Designed KPI cards using DAX functions to calculate and display Total Sales and Total Profit for quick evaluation.
 
  - Visualized top and bottom selling categories using charts for clear comparative analysis.
 
